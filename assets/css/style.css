@@ -1,0 +1,16 @@
+div.content-form { width: 100%; position: absolute; min-height: 600px; height: 100%; max-height: 800px; top: 0; left: -20px; padding: 0 10px; background: rgba(0,0,0,.6); text-align: center; }
+div.content-form form { padding: 20px 30px 30px 30px; background: white; text-align: center; position: relative; display: inline-block; top: 20%; }
+div.content-form form h2 { margin-bottom: 20px; }
+div.content-form form div { width: 100%; display: block; margin: 8px 0; }
+div.content-form form div label { display: inline-block; width: 100%; }
+div.content-form form div input[type='text'] {  }
+div.content-form form div.actions { margin-top: 20px; }
+div.content-form form div.actions .btn { margin: 0 5px; }
+
+section.container-confirmation { width: 100%; background: white; text-align: center; padding-top: 30px; }
+section.container-confirmation p { width: 400px; display: block; margin: 0 auto; font-size: 16px; margin-bottom: 20px; color: #666; }
+
+.btn-inverse { background: rgba(0,0,0,.8); color: white !important; }
+.btn-inverse:hover { background: rgba(0,0,0,1); }
+.btn-reset { background: rgba(210,50,45,.8) !important; color: white !important; line-height: 34px !important; padding: 0 12px !important; }
+.btn-reset:hover { background: rgba(210,50,45,1) !important; }
